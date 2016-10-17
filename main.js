@@ -1,1 +1,3 @@
-$("output").html('hello world')
+$(document).ready(function($) {
+  $("output").html('hello world')
+});
